@@ -1,6 +1,6 @@
-## *Lab Experiment No : 11*
+## *Project No : 1*
 
-## *Lab Experiment Name : Object Oriented Programming*
+## *Project Name : Department Management System(OOP)*
 
 ## *Submission Date : 19th August 2025*
 
